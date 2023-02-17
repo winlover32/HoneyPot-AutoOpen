@@ -10,6 +10,6 @@
 cp sample.env .env
 ```
 
-2. `.env`にメールアドレス, パスワード, WebhookURLを設定
+2. `.env`にメールアドレス, パスワード, WebhookURL(任意)を設定
 
 3. `main.py`をcrontab等で定期実行
